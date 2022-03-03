@@ -4,7 +4,7 @@ Configuring an IDE
 We assume that you have already `cloned <https://github.com/godotengine/godot>`_
 and :ref:`compiled <toc-devel-compiling>` Godot.
 
-You can easily develop Godot with any text editor and by invoking ``scons``
+You can easily develop Godot with any text editor, and by invoking ``scons``
 on the command line, but if you want to work with an IDE (Integrated
 Development Environment), here are setup instructions for some popular ones:
 
@@ -21,4 +21,4 @@ Development Environment), here are setup instructions for some popular ones:
    visual_studio_code
    xcode
 
-It is possible to use other IDEs, but their setup is not documented yet.
+It is also possible to use other IDEs, but their setup is not documented yet.
